@@ -7,6 +7,3 @@ Practice repo for the GitHub flow at Le Wagon.
 ## What I learned
 - Branches, commits, pull requests
 - Deploying with **GitHub Pages**
-
-*.csv
-data/
